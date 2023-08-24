@@ -1,0 +1,14 @@
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\bin\Debug\net7.0\ConsoleStopwatch-Csharp.exe
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\bin\Debug\net7.0\ConsoleStopwatch-Csharp.deps.json
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\bin\Debug\net7.0\ConsoleStopwatch-Csharp.runtimeconfig.json
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\bin\Debug\net7.0\ConsoleStopwatch-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\bin\Debug\net7.0\ConsoleStopwatch-Csharp.pdb
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.AssemblyInfoInputs.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.AssemblyInfo.cs
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\refint\ConsoleStopwatch-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.pdb
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ConsoleStopwatch-Csharp.genruntimeconfig.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleStopwatch-Csharp\obj\Debug\net7.0\ref\ConsoleStopwatch-Csharp.dll
